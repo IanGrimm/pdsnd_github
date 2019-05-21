@@ -5,7 +5,7 @@ Created on 05/20/2019
 Bikeshare Project
 
 ### Description
-Python program that allows a user to sort through bikeshare data by choosing a city, month, and/or day of the week.  The user can also choose to view the raw data.
+Python program that allows a user to sort through bikeshare data by choosing Washington, New York, or Chicago, along with month and/or day of the week.  The user can also choose to view the raw data.
 
 ### Files used
 bikeshare.py
