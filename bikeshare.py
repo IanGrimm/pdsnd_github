@@ -171,8 +171,8 @@ def display_raw_data(df):
         while end_row <= df.shape[0] -1:
 
             print(df.iloc[start_row:end_row,:])
-            start_row = start_row + 5
-            end_row = end_row + 5
+            start_row += 5
+            end_row += 5
 
             raw_data_option = input('\nWould you like to see the next five rows of data? Please choose Yes or No.\n').lower()
 
